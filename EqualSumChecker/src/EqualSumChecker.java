@@ -5,7 +5,7 @@ public class EqualSumChecker {
     //is equal to the third parameter. Otherwise, return false.
 
     public static boolean hasEqualSum (int a, int b, int c){
-        
+
         if((a + b) == c){
             return true;
         }
